@@ -28,10 +28,9 @@ Securities.csv:
 5. Headquarter: Headquarters addres
 
 # Tasks
-Find the top five companies that are good for investment
-Show the best-growing industry by each state, having at least two or more industries 
-mapped.
-5) For each sector find the following.
+1. Find the top five companies that are good for investment
+2. Show the best-growing industry by each state, having at least two or more industries mapped.
+3. For each sector find the following.
 a. Worst year
 b. Best year
 c. Stable year
