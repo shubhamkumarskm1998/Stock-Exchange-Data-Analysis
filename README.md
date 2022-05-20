@@ -6,13 +6,9 @@ The data set comprises of intra-day prices and volume traded for each listed com
 In this project, it is required to Exploratory Data Analysis using Big data tools 
 # Technology Stack:
 Worked on below technology Stack.
-- MySQL (to create database)
-- Linux Commands
-- Sqoop (Transfer data from MySQL Server to HDFS/Hive)
 - HDFS (to store the data)
 - Hive (to perform the EDA)
 - HUE ( for Visualization)
-- 
 # Content: 
 This data set contains prices.csv and securities.csv files having the following 
 features:
